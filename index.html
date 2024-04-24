@@ -1,3 +1,34 @@
-linkedin: https://www.linkedin.com/in/jamesstuartclarke/
-<br />
-keybase: https://keybase.io/clarkee
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>clarke</title>
+    <body onload="get_random_image()">
+<a href="https://www.linkedin.com/in/jamesstuartclarke/">linkedin</a>
+<br>
+
+        <div id="container">
+            <div id="inner_container">
+                <img id="image_shower" alt="meow" width="100%" height="100%"/>
+            </div>
+        </div>
+
+        <script>
+const image_array = [
+  'cat1.jpg',
+  'cat2.jpg',
+  'cat3.jpg',
+  'cat4.jpg',
+  'cat6.jpg',
+  'cat7.jpg',
+  'cat8.jpg',
+  'cat9.jpg'
+];
+
+function get_random_image() {
+  const random_index = Math.floor(Math.random() * image_array.length);
+  const selected_image = image_array[random_index];
+  document.getElementById('image_shower').src = `${selected_image}`;
+}
+        </script>
+    </body>
+</html>
