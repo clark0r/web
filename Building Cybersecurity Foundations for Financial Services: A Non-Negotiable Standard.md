@@ -30,6 +30,6 @@ Third-party risk management is a growing concern. Financial institutions must de
 
 ## Conclusion
 
-Financial institutions need absolute confidence in their software providers. They must know where their data is stored, how it is processed, and that it is safe from cyber threats and resilient to failures. Security cannot be an afterthought—it must be integrated into development, operational processes, and regulatory compliance from day one. Cloud security best practices, secure software development, and continuous compliance validation are the foundations of trust in financial services technology.  
+Financial institutions need absolute confidence in their software providers. They must know where their data is stored, how it is processed, and that it is safe from cyber threats and resilient to failures. Security cannot be an afterthought - it must be integrated into development, operational processes, and regulatory compliance from day one. Cloud security best practices, secure software development, and continuous compliance validation are the foundations of trust in financial services technology.  
   
 Executive leadership must drive cybersecurity initiatives at the highest level. Cybersecurity is not simply an IT issue; it is a business-critical function that impacts trust, compliance, and operational continuity. The institutions that succeed in financial services will be those that proactively build resilience, ensure compliance, and embed security into the core of their operations. 
